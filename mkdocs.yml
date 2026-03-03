@@ -1,0 +1,14 @@
+site_name: FlowForge Documentation
+site_url: https://docs.flowforge.io
+theme: { name: material, palette: { primary: blue } }
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Architecture: architecture.md
+  - API Reference: api-reference.md
+  - SDK Guides:
+    - Python: sdk/python.md
+    - JavaScript: sdk/javascript.md
+    - .NET: sdk/dotnet.md
+  - Deployment: deployment.md
+  - FAQ: faq.md
